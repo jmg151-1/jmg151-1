@@ -20,7 +20,7 @@ My experience includes validating data between warehouse systems and reporting t
 I approach analytics with structured thinking and curiosity, focusing on delivering insights that are reliable, relevant, and actionable.
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://your-username.github.io/)
+### [🏆 Check Out My Full Portfolio Website](https://jmg151-1.github.io))
       
 ## 🔭 What I'm Currently Working On 
 
